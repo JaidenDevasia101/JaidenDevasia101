@@ -4,6 +4,7 @@
 
 - <b>Unix in C++</b>
   - [Unix Utilities](https://github.com/JaidenDevasia101/Unix-Utilities)
+  - [Custom Shell](https://github.com/JaidenDevasia101/Custom-Shell)
 
 
 <h2> 🤳 Connect with me:</h2>
