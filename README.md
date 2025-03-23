@@ -6,6 +6,10 @@
   - [Unix Utilities](https://github.com/JaidenDevasia101/Unix-Utilities)
   - [Custom Shell](https://github.com/JaidenDevasia101/Custom-Shell)
 
+- <b>Python</b>
+  - [MNIST Convolutional Neural Network](https://github.com/JaidenDevasia101/Mnist-Convolutional-Neural-Network)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
