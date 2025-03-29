@@ -10,7 +10,7 @@
   - [MNIST Convolutional Neural Network](https://github.com/JaidenDevasia101/Mnist-Convolutional-Neural-Network)
  
 - <b>Java</b>
-  - [Agent-Based Modeling with Freezing Aggregation](https://github.com/JaidenDevasia101/Mnist-Convolutional-Neural-Network)
+  - [Agent-Based Modeling with Freezing Aggregation](https://github.com/JaidenDevasia101/Agent-Based-Modeling-with-Freezing-Aggregation)
 
 
 
