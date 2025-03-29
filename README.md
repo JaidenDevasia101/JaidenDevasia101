@@ -8,6 +8,8 @@
 
 - <b>Python</b>
   - [MNIST Convolutional Neural Network](https://github.com/JaidenDevasia101/Mnist-Convolutional-Neural-Network)
+ 
+- <b>Agent-Based Modeling (Java + Mason)</b>
 
 
 
