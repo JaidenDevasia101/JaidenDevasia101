@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Artificial Intelligence</b>
+  - [MNIST Convolutional Neural Network](https://github.com/JaidenDevasia101/Mnist-Convolutional-Neural-Network)
+
 - <b>Unix in C++</b>
   - [Unix Utilities](https://github.com/JaidenDevasia101/Unix-Utilities)
   - [Custom Shell](https://github.com/JaidenDevasia101/Custom-Shell)
-
-- <b>Artificial Intelligence</b>
-  - [MNIST Convolutional Neural Network](https://github.com/JaidenDevasia101/Mnist-Convolutional-Neural-Network)
  
 - <b>Java</b>
   - [Agent-Based Modeling with Freezing Aggregation](https://github.com/JaidenDevasia101/Agent-Based-Modeling-with-Freezing-Aggregation)
