@@ -6,7 +6,7 @@
   - [Unix Utilities](https://github.com/JaidenDevasia101/Unix-Utilities)
   - [Custom Shell](https://github.com/JaidenDevasia101/Custom-Shell)
 
-- <b>Python</b>
+- <b>AI Neural Networks</b>
   - [MNIST Convolutional Neural Network](https://github.com/JaidenDevasia101/Mnist-Convolutional-Neural-Network)
  
 - <b>Java</b>
