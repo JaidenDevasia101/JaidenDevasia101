@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaiden! <br/><a href="https://www.linkedin.com/in/jaiden-devasia/">Software Engineer/Developer</a> <a href="https://github.com/JaidenDevasia101">
+<h1>Hi, I'm Jaiden! <br/>Software Engineer/Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
