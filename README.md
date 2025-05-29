@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaiden! <br/>Software Engineer/Developer</a>
+<h1>Hi, I'm Jaiden!
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
