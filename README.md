@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jaiden!
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Artificial Intelligence</b>
   - [MNIST Convolutional Neural Network](https://github.com/JaidenDevasia101/Mnist-Convolutional-Neural-Network)
