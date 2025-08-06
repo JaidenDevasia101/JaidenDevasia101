@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaiden!
+<h1>Hey, I'm Jaiden!
 
 <h2>👨‍💻 My Projects:</h2>
 
