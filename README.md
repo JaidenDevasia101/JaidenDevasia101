@@ -1,6 +1,7 @@
 <h1>Hey, I'm Jaiden!
 
 <h2>👨‍💻 My Projects:</h2>
+- <b>Terraform</b>
 
 - <b>Artificial Intelligence</b>
   - [MNIST Convolutional Neural Network](https://github.com/JaidenDevasia101/Mnist-Convolutional-Neural-Network)
