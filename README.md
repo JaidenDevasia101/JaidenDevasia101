@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 My Projects:</h2>
 - <b>Terraform</b>
+  - [AWS Budget Plan with Terraform](https://github.com/JaidenDevasia101/AWS-Budget-Plan-with-Terraform)
 
 - <b>Artificial Intelligence</b>
   - [MNIST Convolutional Neural Network](https://github.com/JaidenDevasia101/Mnist-Convolutional-Neural-Network)
