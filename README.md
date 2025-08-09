@@ -4,6 +4,7 @@
 
 - <b>Terraform</b>
   - [AWS Budget Plan with Terraform](https://github.com/JaidenDevasia101/AWS-Budget-Plan-with-Terraform)
+  - [Local Docker Image Creation with Terraform](https://github.com/JaidenDevasia101/Local-Docker-Image-Creation-with-Terraform)
 
 - <b>Artificial Intelligence</b>
   - [MNIST Convolutional Neural Network](https://github.com/JaidenDevasia101/Mnist-Convolutional-Neural-Network)
