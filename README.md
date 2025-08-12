@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Terraform</b>
-  - [AWS Budget Plan with Terraform](https://github.com/JaidenDevasia101/AWS-Security-Compliance-with-Terraform)
+  - [AWS Security Compliance with Terraform](https://github.com/JaidenDevasia101/AWS-Security-Compliance-with-Terraform)
   - [AWS Budget Plan with Terraform](https://github.com/JaidenDevasia101/AWS-Budget-Plan-with-Terraform)
   - [Local Docker Image Creation with Terraform](https://github.com/JaidenDevasia101/Local-Docker-Image-Creation-with-Terraform)
   - [Basic Docker Container Creation with Terraform](https://github.com/JaidenDevasia101/Basic-Docker-Container-Creation-with-Terraform)
